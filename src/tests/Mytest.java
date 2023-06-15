@@ -8,6 +8,8 @@ String name="rajes";
 
 int age=25;
  String city="nandyal";
+ String country="india";
+ int salary=90000;
 	}
 
 }
