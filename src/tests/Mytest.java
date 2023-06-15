@@ -7,6 +7,7 @@ public class Mytest {
 String name="rajes";
 
 int age=25;
+ String city="nandyal";
 	}
 
 }
